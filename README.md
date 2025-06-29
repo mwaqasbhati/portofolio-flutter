@@ -122,13 +122,13 @@ flutter test
 
 | Light Mode              | Dark Mode               |
 |------------------------|-------------------------|
-| ![flutter_light_en](https://github.com/user-attachments/assets/2c72b0a5-894b-4682-8fab-a17f61018d06) | ![flutter_dark_en](https://github.com/user-attachments/assets/e5a3830f-ab10-4d4e-b729-ccdfcfaa6adc) |
-| ![flutter_light_ar](https://github.com/user-attachments/assets/ee333c62-f671-42b2-888a-c28119573c84) | ![flutter_dark_ar](https://github.com/user-attachments/assets/88db694d-7171-453e-8a37-96ca63687a89) |
+| ![Home](screenshots/flutter_light_en.png) | ![Home](screenshots/flutter_dark_en.png) |
+| ![Home](screenshots/flutter_light_ar.png) | ![Home](screenshots/flutter_dark_ar.png) |
 
 
 Web-End (chrome)
 
-<img width="1194" alt="chrome" src="https://github.com/user-attachments/assets/e3d3c21f-f8f6-4ea7-96e6-046a38ee1bd4" />
+<img src="screenshots/chrome.png" alt="Home" width="600" />
 
 
 ---
