@@ -1,0 +1,9 @@
+{
+  "positions": "Positions",
+  "netValue": "Net Value",
+  "pnl": "PnL (PnL %)",
+  "pnlPercentage": "PnL%",
+  "error": "Error",
+  "qty": "Qty",
+  "avg": "Avg"
+}
